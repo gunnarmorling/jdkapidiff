@@ -1,5 +1,7 @@
 # JDK API Diff Report Generator
 
+*Note:* This project has been migrated to the AdoptOpenJDK organization (https://github.com/AdoptOpenJDK/jdk-api-diff) and this repository is not actively maintained any longer.
+
 This project creates a report of all API changes between two different JDK versions, e.g. JDK 8 and 9, using [JapiCmp](https://github.com/siom79/japicmp).
 
 ## Published reports
